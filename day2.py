@@ -26,7 +26,7 @@ def part2():
             total_valid += 1 
 
     return total_valid
-        
+       
 
 
 def main():
